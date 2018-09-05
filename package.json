@@ -1,0 +1,24 @@
+{
+  "name": "card-validator",
+  "version": "1.0.0",
+  "description": "Lib para verificação de cartão de crédito",
+  "main": "index.js",
+  "scripts": {
+    "test": "cardValidator()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karinacpereira/cardValidator.git"
+  },
+  "keywords": [
+    "card",
+    "creditcard",
+    "validator"
+  ],
+  "author": "Karina C Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karinacpereira/cardValidator/issues"
+  },
+  "homepage": "https://github.com/Karinacpereira/cardValidator#readme"
+}
