@@ -1,5 +1,5 @@
 {
-  "name": "card-validator",
+  "name": "card-validator-karina",
   "version": "1.0.0",
   "description": "Lib para verificação de cartão de crédito",
   "main": "index.js",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Karinacpereira/cardValidator#readme",
   "dependencies": {
-    "chai": "^4.1.2"
+    "chai": "^4.1.2",
+    "eslint": "^5.5.0"
   }
 }
