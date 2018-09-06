@@ -44,13 +44,7 @@ function isValidCard(cardNumber){
     // console.log(sum);
     }
 
-    // return sum % 10 === 0 && sum !== 0
-
-    if (sum % 10 === 0 && sum !== 0){
-        return true;
-    } else {
-        return false;
-    }
+    return sum % 10 === 0 && sum !== 0
 }
 
 const _cardValidator = cardValidator;
